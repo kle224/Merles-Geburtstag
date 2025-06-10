@@ -10,7 +10,7 @@ const content = [
   {image: 'images/merle8.JPG', text: 'Ich wünsche dir einen Kompass, keinen Plan.\nDenn du wirst Wege finden, die auf keiner Karte stehen.✨'},
   {image: 'images/merle9.jpg', text: 'Möge das Leben dich überraschen –\nmit genau den Dingen, von denen du nicht wusstest, dass du sie brauchst.'},
   {image: 'images/merle10.jpg', text: 'Happy 18th Birthday! Möge deine nächsten Jahre voller Glück, Abenteuer und unendlicher Möglichkeiten sein - du hast es verdient!❤️'},
-  {image: 'icons/qr-code.svg', text: 'Auch wenn ich heute leider nicht bei dir sein kann möchte ich dir trotzdem gerne meine Glückwünsche übermitteln!\nHab ganz viel Spaß und Freude in deinem neuen Lebensjahr!\nHerzlichen Glückwunsch von Noah🎂'},
+  {image: 'icons/qr-code.svg', text: 'Auch wenn ich heute leider nicht bei dir sein kann möchte ich dir trotzdem gerne meine Glückwünsche übermitteln!\nHab ganz viel Spaß und Freude in deinem neuen Lebensjahr!\nHerzlichen Glückwunsch von Katharina und Noah🎂'},
 ];
 
 let currentIndex = 0;
