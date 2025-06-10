@@ -8,8 +8,8 @@ const content = [
   {image: 'images/merle6.JPG', text: 'Für alle großen Entscheidungen:\nVertrau auf dein Gefühl.\nDein Kopf kann googeln, dein Herz weiß Bescheid.'},
   {image: 'images/merle7.PNG', text: 'Wenn du mal fällst:\nLern was draus. Lach drüber. Steh wieder auf.\nUnd trag den Kratzer wie ein Tattoo.'},
   {image: 'images/merle8.JPG', text: 'Ich wünsche dir einen Kompass, keinen Plan.\nDenn du wirst Wege finden, die auf keiner Karte stehen.✨'},
-  {image: 'images/merle9.JPG', text: 'Möge das Leben dich überraschen –\nmit genau den Dingen, von denen du nicht wusstest, dass du sie brauchst.'},
-  {image: 'images/merle10.JPG', text: 'Happy 18th Birthday! Möge deine nächsten Jahre voller Glück, Abenteuer und unendlicher Möglichkeiten sein - du hast es verdient!❤️'},
+  {image: 'images/merle9.jpg', text: 'Möge das Leben dich überraschen –\nmit genau den Dingen, von denen du nicht wusstest, dass du sie brauchst.'},
+  {image: 'images/merle10.jpg', text: 'Happy 18th Birthday! Möge deine nächsten Jahre voller Glück, Abenteuer und unendlicher Möglichkeiten sein - du hast es verdient!❤️'},
   {image: 'icons/qr-code.svg', text: 'Auch wenn ich heute leider nicht bei dir sein kann möchte ich dir trotzdem gerne meine Glückwünsche übermitteln!\nHab ganz viel Spaß und Freude in deinem neuen Lebensjahr!\nHerzlichen Glückwunsch von Noah🎂'},
 ];
 
